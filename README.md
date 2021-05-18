@@ -1,7 +1,5 @@
 <h1 align="center" style="font-size: 52px;" ><img height=30 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"> Expedition Travel Animation</h1>
 
-Designed live portfolio using Flutter 2.0. Available for **Android** and **Web**. 
-
 <img src="https://user-images.githubusercontent.com/66843891/118715756-71ff3a80-b83d-11eb-8c90-6e0a2ffc6b45.gif">
 
 <div align="center">
