@@ -17,8 +17,8 @@ Designed live portfolio using Flutter 2.0. Available for **Android** and **Web**
 Before these steps make sure you have `flutter 2.0`
 
 ```
-git clone https://github.com/m-hamzashakeel/DevFolio
-cd DevFolio
+git clone https://github.com/MRafaydev/Travel_Animation
+cd Travel_Animation
 flutter packages get
 flutter config --enable-web
 flutter run -d chrome
